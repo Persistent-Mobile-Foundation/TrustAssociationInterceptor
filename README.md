@@ -84,3 +84,7 @@ Add the OAuthTai.mf file to the WebSphere Application Server Liberty instance in
 
 ### Supported Levels
 Persistent Mobile Foundation: `10.1.0 and later`
+
+Note
+
+Please switch to release-9x branch for older release.
