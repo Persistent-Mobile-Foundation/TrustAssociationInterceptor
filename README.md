@@ -22,4 +22,5 @@ You can deploy the project on supported application servers (WebSphere Full prof
 Persistent Mobile Foundation: `9.x.x - 10.0.0`
 
 Note
+
 Please switch to release-9x branch for older release adapters.
